@@ -4,7 +4,7 @@ Name : Fadhlulloh Nurul Fatih
 
 # AI usage
 Explain how you use the AI to solve the assignment. Put all ***your used queries*** in this section & what kind of AI are you using. Declare not using AI if you didn't do this.  
-Help with function to draw the points
+Help with function to draw the points and convex hull
 
 # Collaboration usage
 Explain how you are ***using others*** to complete the assignment in this section. Are they simply copying, learn the ideas, learn how to adapt the AI or anything involving the process. State the people if any & Please be elaborate. Declare self tought if you solved this by yourself. 
